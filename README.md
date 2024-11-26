@@ -80,6 +80,3 @@ Researchers are encouraged to pair this dataset with continuous updates and cont
 
 This dataset is shared under the **MIT License**, allowing free use, modification, and distribution for academic and non-commercial purposes. License details can be found [here](https://opensource.org/licenses/MIT).
 
---- 
-
-This README ensures clear documentation, statistical rigor, and ethical compliance while enabling impactful research on phishing detection.
